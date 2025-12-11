@@ -10,7 +10,7 @@
 
 // Firebase Configuration
 #define FIREBASE_HOST "fire-detection-fcaf9-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "AIzaSyCUOxni60Lh-__ZeE7vzeRMo7XvgWzBWUo"
+#define FIREBASE_AUTH "enter ur auth"
 
 // ThingSpeak Configuration
 #define THINGSPEAK_API_KEY "SKGNAYL7O2WJ0HI0"
@@ -370,4 +370,5 @@ void testLEDs() {
   digitalWrite(LED_EMERGENCY, LOW);
   
   Serial.println("LED test complete!\n");
+
 }
