@@ -563,7 +563,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 **Rumeth Jayasinghe**  
 [GitHub](https://github.com/rumethnadawa) | [LinkedIn](https://www.linkedin.com/in/rumeth-jayasinghe-39828424b/)
----
+
 
 ## 📞 Contact & Support
 
@@ -596,4 +596,5 @@ For questions, issues, or suggestions:
 **Last Updated**: December 2025  
 **Status**: ✅ Production Ready  
 **Version**: 1.0.0
+
 
